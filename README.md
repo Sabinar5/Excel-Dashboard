@@ -15,9 +15,9 @@ Key areas of analysis include:
 
 Workflow:
 
-Data Collection: Imported raw sales and product data into Excel.
-Data Cleaning: Used Power Query to format the data.
-Data Modeling: Created pivot tables to summarize key performance indicators (KPIs).
-Visualization: Designed Pivot charts and dashboard.
-Interaction: Incorporated slicers for user-driven analysis.
+- Data Collection: Imported raw sales and product data into Excel.
+- Data Cleaning: Used Power Query to format the data.
+- Data Modeling: Created pivot tables to summarize key performance indicators (KPIs).
+- Visualization: Designed Pivot charts and dashboard.
+- Interaction: Incorporated slicers for user-driven analysis.
 
